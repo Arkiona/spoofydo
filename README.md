@@ -3,7 +3,7 @@ Ruby email spoofing script
 
 
 ```
-Lightweight email spoofing scripts that uses a local SMTP server. 
+Lightweight email spoofing scripts that uses a local SMTP server. Supports HTML email templates and sends to multiple targets.
 
 ruby spoofy2.rb -h
 Options:
