@@ -21,6 +21,7 @@ requires optimist gem. (gem install optimist)
 
 requires a local SMTP server. Tested with postfix.
 
+```
 
 Advisory:
 
